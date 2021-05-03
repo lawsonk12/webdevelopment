@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<title>Kaitlyn Lawson</title>
+<link rel="stylesheet" type="text/css" href="top.css" />
+<meta name="generator" content="vim" />
+<meta name="robots" content="noarchive" />
+</head>
+<div class="wrap">
+<table border="0" cellpadding="0" cellspacing="0">
+<tbody>
+    <tr><td>
+        <table cellpadding="4" cellspacing="1">
+        <tbody>
+            <tr>
+                <td><img src="https://github.com/lawsonk12/webdevelopment/blob/main/Slack%20Picture.jpeg" alt="Picture of Kaitlyn Lawson" /></td>
+                <td>&nbsp;</td>
+                <td valign="top"><h2>Kaitlyn Lawson, NKU </h2>
+                    Public Relations Major<br/>
+                    Chapter President of <a href="https://nku.alphaomicronpi.org/>Alpha Omicron Pi</a><br/>
+                    Ambassador President of <a href="https://inside.nku.edu/sss.html">TRIO/ Student Support Services</a><br/>
+                    Program Leader at The Boys & Girls Club of Greater Cincinnati <a href="https://bgcgc.org/"> BGCGC
+                    Secretary of Norse Violence Prevention Center <a href="https://inside.nku.edu/nvp.html">NVPC</a><br/>
+                    <i><a href="mailto:lawsonk12@mymail.nku.edu">lawsonk12@nku.edu</a></i><br/>
+                    <b>Phone:</b>&nbsp;123-456-7891<br/>
+                </td> 
+            </tr>
+        </tbody>
+        </table>
+    </td></tr>
+    <tr>
+        <td><hr/></td>
+    </tr>
+    <tr><td>
+        <table class="index" cellspacing="10">
+        <tbody>
+            <tr>
+                <td align="left" valign="top"><b>About Me</b></td>
+                <td align="left" valign="top">
+                    <p class="open">NKU Student, NKU AOII Chapter President, TRIO/SSS Ambassador President & Career Liasion, Secretary to NKU NVPC, Program Leader at The Boy & Girls Clubs of Greater Cincinnati  </p>
+                </td> 
+            </tr>
+        </tbody>
+        </table>
+    </td></tr>
+    <tr><td>
+        <table class="index" cellspacing="12">
+        <tbody>
+            <tr>
+                <td align="left" valign="top"><b>NKU</b></td>
+                <td align="left" valign="top">
+                    <p class="open"><a href="https://nku.edu/academics/informatics/programs/undergraduate/publicrelations.html">Public Relations Major</a> </p>
+                    <p class="open"><a href="http://onlinecatalog.nku.edu/preview_program.php?catoid=11&poid=1570">Organizational Leadership Minor</a> </p>
+                </td> 
+            </tr>
+            <!--
+            <tr>
+                <td align="left" valign="top"><b>Recent<br/>Talks</b></td>
+                <td align="left" valign="top">
+                    <p class="open"><a href="talks/issre14-presentation.pdf">Predicting Vulnerable Components: Software Metrics vs Text Mining</a> at <a href="http://issre.net/">The 25th IEEE International Symposium on Software Reliability Engineering (ISSRE)</a>, Naples, Italy, November 3-6, 2014 (<em>Best Paper Award</em>).</p>
+                    <p class="open"><a href="talks.html">Previous Presentations</a></p>
+                </td> 
+            </tr>
+            -->
+            <tr>
+                <td align="left" valign="top"><b>Travel<br/>And more travel</b></td>
+                <td align="left" valign="top">
+                    <p I love to travel in my free time & am always the one my friends ask for travel advice! In 2019, I visted 20+ new locations & am planning on making up for last time Summer 2021. I will be traveling across the country this summer - ask me for any roadtrip tips & tricks!
+                    </p>
+                </td> 
+            </tr>
+            <tr>
+                <td align="left" valign="top"><b>Socials</b></td>
+                <td align="left" valign="top">
+                    <p class="open">
+                    <a href="https://www.facebook.com/kaitlyn.lawson.566">@Facebook</a>, 
+                    <a href="https://www.instagram.com/">@Instagram</a>,
+                    <a href="https://twitter.com/home?lang=en-gb">@Twitter</a>,
+                    </p>
+                </td> 
+            </tr>
+</tbody>
+</table>
+</div>
+</body>
+</html>
