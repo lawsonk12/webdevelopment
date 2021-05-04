@@ -1,0 +1,847 @@
+
+
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta name="apple-touch-fullscreen" content="yes"/>
+  <meta name="MobileOptimized" content="320"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <link rel="profile" href="https://gmpg.org/xfn/11">
+  <title>CONNECT &#8211; Safe Families, Peaceful Communities</title>
+<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1580178033421{background-color: #f4f5f9 !important;}.vc_custom_1581359075658{background-color: #f4f5f9 !important;}.vc_custom_1581359865175{background-color: #f4f5f9 !important;}.vc_custom_1590525609926{margin-top: 0px !important;margin-right: 0px !important;margin-bottom: 0px !important;margin-left: 0px !important;border-right-width: 0px !important;border-left-width: 0px !important;}</style><meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='dns-prefetch' href='//v0.wordpress.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//i1.wp.com' />
+<link rel='dns-prefetch' href='//i2.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="CONNECT &raquo; Feed" href="https://www.connectnyc.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="CONNECT &raquo; Comments Feed" href="https://www.connectnyc.org/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.connectnyc.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.1"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://c0.wp.com/c/5.7.1/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<style id='wp-block-library-inline-css' type='text/css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<link rel='stylesheet' id='ctct_form_styles-css'  href='https://www.connectnyc.org/wp-content/plugins/constant-contact-forms/assets/css/style.css?ver=1.10.1' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='https://www.connectnyc.org/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='quick-event-manager-css'  href='https://www.connectnyc.org/wp-content/plugins/quick-event-manager/ui/user/css/frontend.css?ver=9.1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='event_style-css'  href='https://www.connectnyc.org/wp-content/plugins/quick-event-manager/legacy/quick-event-manager.css?ver=5.7.1' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='vc_lte_ie9-css'  href='https://www.connectnyc.org/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css?ver=6.0.5' type='text/css' media='screen' />
+<![endif]-->
+<link rel='stylesheet' id='js_composer_front-css'  href='https://www.connectnyc.org/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.0.5' type='text/css' media='all' />
+<link rel='stylesheet' id='kunco-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:400,700%7CPoppins:400,500,600,700&#038;subset' type='text/css' media='all' />
+<link rel='stylesheet' id='lightgallery-css'  href='https://www.connectnyc.org/wp-content/themes/kunco/js/lightgallery/css/lightgallery.min.css?ver=5.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='kunco-style-css'  href='https://www.connectnyc.org/wp-content/themes/kunco/style.css?ver=5.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-css'  href='https://www.connectnyc.org/wp-content/themes/kunco/js/magnific/magnific-popup.css?ver=5.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='https://www.connectnyc.org/wp-content/themes/kunco/js/owl-carousel/assets/owl.carousel.css?ver=5.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='icon-custom-css'  href='https://www.connectnyc.org/wp-content/themes/kunco/css/icon-custom.css?ver=5.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='icon-fontawesome-css'  href='https://www.connectnyc.org/wp-content/themes/kunco/css/fontawesome/css/font-awesome.min.css?ver=5.7.1' type='text/css' media='all' />
+<link rel='stylesheet' id='kunco-bootstrap-css'  href='https://www.connectnyc.org/wp-content/themes/kunco/css/bootstrap.css?ver=1.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='kunco-woocoomerce-css'  href='https://www.connectnyc.org/wp-content/themes/kunco/css/woocommerce.css?ver=1.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='kunco-template-css'  href='https://www.connectnyc.org/wp-content/themes/kunco/css/template.css?ver=1.0.13' type='text/css' media='all' />
+<link rel='stylesheet' id='gva-custom-style-css'  href='https://www.connectnyc.org/wp-content/themes/kunco/css/custom_script.css?ver=5.7.1' type='text/css' media='all' />
+<style id='gva-custom-style-inline-css' type='text/css'>
+body{color:#000000;}.header-mainmenu, .header-v1 .header-bottom, .header-v2 .header-bottom, .header-v4 .header-bottom, .header-v4 .header-bottom .header-bottom-inner{background: #eb892d!important;}ul.gva-main-menu > li > a:hover, ul.gva-main-menu > li > a:focus, ul.gva-main-menu > li > a:active{color: #ffffff!important;}ul.gva-main-menu .submenu-inner a:hover, ul.gva-main-menu .submenu-inner a:active, ul.gva-main-menu .submenu-inner a:focus {color: #eb892d!important;}div.page {color: #000000;}#wp-footer {color: #ffffff;}
+</style>
+<link rel='stylesheet' id='jetpack_css-css'  href='https://c0.wp.com/p/jetpack/9.5/css/jetpack.css' type='text/css' media='all' />
+<script type='text/javascript' src='https://c0.wp.com/c/5.7.1/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7.1/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://www.connectnyc.org/wp-content/plugins/quick-event-manager/ui/user/js/frontend.js?ver=9.1.0' id='quick-event-manager-js'></script>
+<script type='text/javascript' src='https://www.connectnyc.org/wp-content/themes/kunco/js/bootstrap.js?ver=5.7.1' id='bootstrap-js'></script>
+<script type='text/javascript' src='https://www.connectnyc.org/wp-content/themes/kunco/js/countdown.js?ver=5.7.1' id='countdown-js'></script>
+<script type='text/javascript' src='https://www.connectnyc.org/wp-content/themes/kunco/js/count-to.js?ver=5.7.1' id='count-to-js'></script>
+<script type='text/javascript' src='https://www.connectnyc.org/wp-content/themes/kunco/js/jquery.appear.js?ver=5.7.1' id='appear-js'></script>
+<script type='text/javascript' src='https://www.connectnyc.org/wp-content/themes/kunco/js/perfect-scrollbar.jquery.min.js?ver=5.7.1' id='scrollbar-js'></script>
+<script type='text/javascript' src='https://www.connectnyc.org/wp-content/themes/kunco/js/owl-carousel/owl.carousel.min.js?ver=5.7.1' id='owl-carousel-js'></script>
+<script type='text/javascript' src='https://www.connectnyc.org/wp-content/themes/kunco/js/magnific/jquery.magnific-popup.min.js?ver=5.7.1' id='magnific-js'></script>
+<script type='text/javascript' src='https://www.connectnyc.org/wp-content/themes/kunco/js/scroll/jquery.scrollto.js?ver=5.7.1' id='scroll-to-js'></script>
+<script type='text/javascript' src='https://www.connectnyc.org/wp-content/themes/kunco/js/waypoint.js?ver=5.7.1' id='waypoint-js'></script>
+<script type='text/javascript' src='https://www.connectnyc.org/wp-content/themes/kunco/js/jquery.cookie.js?ver=5.7.1' id='cookie-js'></script>
+<script type='text/javascript' src='https://www.connectnyc.org/wp-content/themes/kunco/js/jquery.typer.js?ver=5.7.1' id='typer-js'></script>
+<script type='text/javascript' src='https://www.connectnyc.org/wp-content/themes/kunco/js/jquery.easypiechart.min.js?ver=5.7.1' id='easypiechart-js'></script>
+<script type='text/javascript' src='https://www.connectnyc.org/wp-content/themes/kunco/js/lightgallery/js/lightgallery.min.js?ver=5.7.1' id='lightgallery-js'></script>
+<script type='text/javascript' src='https://www.connectnyc.org/wp-content/themes/kunco/js/main.js?ver=5.7.1' id='kunco-main-js'></script>
+<script type='text/javascript' src='https://www.connectnyc.org/wp-content/themes/kunco/js/woocommerce.js?ver=5.7.1' id='woocommerce-theme-js'></script>
+<link rel="https://api.w.org/" href="https://www.connectnyc.org/wp-json/" /><link rel="alternate" type="application/json" href="https://www.connectnyc.org/wp-json/wp/v2/pages/4032" /><link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.connectnyc.org/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.7.1" />
+<link rel="canonical" href="https://www.connectnyc.org/" />
+<link rel='shortlink' href='https://wp.me/PauDfK-132' />
+<link rel="alternate" type="application/json+oembed" href="https://www.connectnyc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.connectnyc.org%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.connectnyc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.connectnyc.org%2F&#038;format=xml" />
+<script> var ajaxurl = "https://www.connectnyc.org/wp-admin/admin-ajax.php";</script><!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-128402999-1', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics --><script type="text/javascript">ajaxurl = "https://www.connectnyc.org/wp-admin/admin-ajax.php"; qem_calendar_atts = []; qem_year = []; qem_month = []; qem_category = [];</script><style type='text/css'>img#wpstats{display:none}</style><script> var ajaxurl = "https://www.connectnyc.org/wp-admin/admin-ajax.php";</script><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<style type="text/css" media="screen">
+.qem {width:100%;margin: 0 0 20px 0,;}
+.qem p {margin: 0 0 8px 0,padding: 0 0 0 0;}
+.qem p, .qem h2 {margin: 0 0 8px 0;padding:0;}
+.qem p {font-family: &#34;Open Sans&#34;, Arial, Helvetica, sans-serif; font-size: 1em;}
+.qem h2, .qem h2 a {font-size: 120% !important;color:#942739 !important}
+@media only screen and (max-width:480px) {.qemtrim span {font-size:50%;}
+.qemtrim, .calday, data-tooltip {font-size: 80%;}}#qem-calendar-widget h2 {font-size: 1em;}
+#qem-calendar-widget .qemtrim span {display:none;}
+#qem-calendar-widget .qemtrim:after{content:"\25B6";font-size:150%;}
+@media only screen and (max-width:480px;) {.qemtrim span {display:none;}.qemtrim:after{content:"\25B6";font-size:150%;}}
+.qem-small, .qem-medium, .qem-large {}.qem-register{max-width:px;}
+.qemright {max-width:40%;width:300px;height:auto;overflow:hidden;}
+.qemlistright {max-width:40%;width:300px;height:auto;overflow:hidden;}
+img.qem-image {width:100%;height:auto;overflow:hidden;}
+img.qem-list-image {width:100%;height:auto;overflow:hidden;}
+.qem-category {border: 1px solid #eb892d;}
+.qem-icon .qem-calendar-small {width:52px;}
+.qem-small {margin-left:58px;}
+.qem-icon .qem-calendar-medium {width:72px;}
+.qem-medium {margin-left:78px;}
+.qem-icon .qem-calendar-large {width:92px;}
+.qem-large {margin-left:98px;}
+.qem-calendar-small .nonday, .qem-calendar-medium .nonday, .qem-calendar-large .nonday {display:block;border: 1px solid #eb892d;border-top:none;background:#FFF;}
+.qem-calendar-small .day, .qem-calendar-medium .day, .qem-calendar-large .day {display:block;color:#FFF;background:#eb892d; border: 1px solid #eb892d;border-bottom:none;}
+.qem-calendar-small .month, .qem-calendar-medium .month, .qem-calendar-large .month {color:#343838}
+.qem-error { border-color: red !important; }
+.qem-error-header { color: red !important; }
+.qem-columns, .qem-masonry {border:;}
+#qem-calendar h2 {margin: 0 0 8px 0;padding:0;}
+#qem-calendar .calmonth {text-align:center;}
+#qem-calendar .calday {background:#EBEFC9; color:}
+#qem-calendar .day {background:#EBEFC9;}
+#qem-calendar .eventday {background:#EED1AC;}
+#qem-calendar .eventday a {-webkit-border-radius:3px; -moz-border-radius:3px; border-radius:3px;color:#343838 !important;background: !important;border:1px solid #343838 !important;}
+#qem-calendar .eventday a:hover {background:#EED1AC !important;}
+#qem-calendar .oldday {background:#CCC;}
+#qem-calendar table {border-collapse: separate;border-spacing:3px;}
+.qemtrim span {}
+@media only screen and (max-width: 700px) {.qemtrim img {display:none;}}
+@media only screen and (max-width: 480px) {.qem-large, .qem-medium {margin-left: 50px;}
+    .qem-icon .qem-calendar-large, .qem-icon .qem-calendar-medium  {font-size: 80%;width: 40px;margin: 0 0 10px 0;padding: 0 0 2px 0;}
+    .qem-icon .qem-calendar-large .day, .qem-icon .qem-calendar-medium .day {padding: 2px 0;}
+    .qem-icon .qem-calendar-large .month, .qem-icon .qem-calendar-medium .month {font-size: 140%;padding: 2px 0;}
+}#xlightbox {width:60%;margin-left:-30%;}
+@media only screen and (max-width: 480px) {#xlightbox {width:90%;margin-left:-45%;}}.qem-register {text-align: left;margin: 10px 0 10px 0;padding: 0;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;}
+.qem-register #none {border: 0px solid #FFF;padding: 0;}
+.qem-register #plain {border: 1px solid #415063;padding: 10px;margin: 0;}
+.qem-register #rounded {border: 1px solid #415063;padding: 10px;-moz-border-radius: 10px;-webkit-box-shadow: 10px;border-radius: 10px;}
+.qem-register #shadow {border: 1px solid #415063;padding: 10px;margin: 0 10px 20px 0;-webkit-box-shadow: 5px 5px 5px #415063;-moz-box-shadow: 5px 5px 5px #415063;box-shadow: 5px 5px 5px #415063;}
+.qem-register #roundshadow {border: 1px solid #415063;padding: 10px; margin: 0 10px 20px 0;-webkit-box-shadow: 5px 5px 5px #415063;-moz-box-shadow: 5px 5px 5px #415063;box-shadow: 5px 5px 5px #415063;-moz-border-radius: 10px;-webkit-box-shadow: 10px;border-radius: 10px;}
+.qem-register form, .qem-register p {margin: 0;padding: 0;}
+.qem-register input[type=text], .qem-register input[type=number], .qem-register textarea, .qem-register select, .qem-register #submit {margin: 5px 0 7px 0;padding: 4px;color: #465069;font-family: inherit;font-size: inherit;height:auto;border:1px solid #415063;width: 100%;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;}
+.qem-register input[type=text] .required, .qem-register input[type=number] .required, .qem-register textarea .required {border:1px solid green;}
+.qem-register #submit {text-align: center;cursor: pointer;}
+div.toggle-qem {color: #FFF;background: #343838;text-align: center;cursor: pointer;margin: 5px 0 7px 0;padding: 4px;font-family: inherit;font-size: inherit;height:auto;border:1px solid #415063;width: 100%;-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;}
+div.toggle-qem a {background: #343838;text-align: center;cursor: pointer;color:#FFFFFF;}
+div.toggle-qem a:link, div.toggle-qem a:visited, div.toggle-qem a:hover {color:#FFF;text-decoration:none !important;}
+.qem-register {max-width:100%;overflow:hidden;width:280px;}.qem-register #submit {float:left;width:100%;color:#FFF;background:#343838;border:1px solid #415063;font-size: inherit;}
+.qem-register #submit:hover {background:#888888;}
+
+.qem-register  input[type=text], .qem-register  input[type=number], .qem-register textarea, .qem-register select, .qem-register #submit {border-radius:0;}
+
+.qem-register h2 {color: #465069;;height:auto;}
+
+.qem-register input[type=text], .qem-register input[type=number], .qem-register textarea, .qem-register select {border:1px solid #415063;background:#FFFFFF;line-height:normal;height:auto;margin: 2px 0 3px 0;padding: 6px;}
+.qem-register input:focus, .qem-register textarea:focus {background:#FFFFCC;}
+.qem-register input[type=text].required, .qem-register input[type=number].required, .qem-register textarea.required, .qem-register select.required {border:1px solid #00C618}
+.qem-register p {margin: 6px 0 !important;padding: 0 !important;}
+.qem-register .error {.qem-error {color:#D31900 !important;border-color:#D31900 !important;}
+
+
+</style>
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="CONNECT" />
+<meta property="og:description" content="Safe Families, Peaceful Communities" />
+<meta property="og:url" content="https://www.connectnyc.org/" />
+<meta property="og:site_name" content="CONNECT" />
+<meta property="og:image" content="https://i2.wp.com/www.connectnyc.org/wp-content/uploads/2016/12/cropped-CONNECT_logo-1.png?fit=512%2C512&amp;ssl=1" />
+<meta property="og:image:width" content="512" />
+<meta property="og:image:height" content="512" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:text:title" content="Home" />
+<meta name="twitter:image" content="https://i2.wp.com/www.connectnyc.org/wp-content/uploads/2016/12/cropped-CONNECT_logo-1.png?fit=240%2C240&amp;ssl=1" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End Jetpack Open Graph Tags -->
+<style>
+          .vc_custom_1534777196579{padding-bottom: 20px !important;}.vc_custom_1577125229569{margin-bottom: 20px !important;}
+          </style><link rel="icon" href="https://i2.wp.com/www.connectnyc.org/wp-content/uploads/2016/12/cropped-CONNECT_logo-1.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i2.wp.com/www.connectnyc.org/wp-content/uploads/2016/12/cropped-CONNECT_logo-1.png?fit=192%2C192&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i2.wp.com/www.connectnyc.org/wp-content/uploads/2016/12/cropped-CONNECT_logo-1.png?fit=180%2C180&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i2.wp.com/www.connectnyc.org/wp-content/uploads/2016/12/cropped-CONNECT_logo-1.png?fit=270%2C270&#038;ssl=1" />
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+
+<body data-rsssl=1 class="home page-template-default page page-id-4032 ctct-kunco wpb-js-composer js-comp-ver-6.0.5 vc_responsive">
+  <div class="wrapper-page"> <!--page-->
+        
+    <header class=" header-default header-v1">
+      
+      
+<div class="header-mobile hidden-lg hidden-md gv-sticky-mobile">
+  <div class="container">
+    <div class="row"> 
+     
+      <div class="left col-xs-3">
+         <div class="hidden-lg hidden-md">
+   <div class="canvas-menu gva-offcanvas">
+     <a class="dropdown-toggle" data-canvas=".mobile" href="#"><i class="gv-icon-103"></i></a>
+   </div>
+   <div class="gva-offcanvas-content mobile">
+      <div class="close-canvas"><a><i class="gv-icon-8"></i></a></div>
+      <div class="wp-sidebar sidebar">
+         <div id="gva-mobile-menu" class="navbar-collapse"><ul id="menu-menu-1" class="nav navbar-nav gva-nav-menu gva-mobile-menu"><li id="menu-item-4475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4032 current_page_item menu-item-4475"><a href="https://www.connectnyc.org/">Home</a></li>
+<li id="menu-item-4319" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4319"><a href="https://www.connectnyc.org/about-page/">About<span class="caret"></span></a>
+<ul class="submenu-inner ">
+	<li id="menu-item-4334" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4334"><a href="https://www.connectnyc.org/meet-our-team/">Staff &#038; Board</a></li>
+	<li id="menu-item-5857" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5857"><a href="https://www.connectnyc.org/5850-2/">Work with us</a></li>
+</ul>
+</li>
+<li id="menu-item-4376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4376"><a href="https://www.connectnyc.org/our-work/">Our Work<span class="caret"></span></a>
+<ul class="submenu-inner ">
+	<li id="menu-item-5213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5213"><a href="https://www.connectnyc.org/cti/">CONNECT Training Institute</a></li>
+	<li id="menu-item-5236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5236"><a href="https://www.connectnyc.org/cep/">Community Empowerment Program (CEP)<span class="caret"></span></a>
+	<ul class="submenu-inner ">
+		<li id="menu-item-5253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5253"><a href="https://www.connectnyc.org/connect-women/">CONNECT Women</a></li>
+		<li id="menu-item-5250" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5250"><a href="https://www.connectnyc.org/connect-men/">CONNECT Men</a></li>
+		<li id="menu-item-5249" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5249"><a href="https://www.connectnyc.org/connect-faith/">CONNECT Faith</a></li>
+		<li id="menu-item-5248" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5248"><a href="https://www.connectnyc.org/connect-youth/">CONNECT Youth</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-4168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4168"><a href="https://www.connectnyc.org/dialogues-circles/">Dialogues &#038; Circles</a></li>
+<li id="menu-item-5942" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5942"><a href="https://www.connectnyc.org/ipv/">Intimate Partner Violence<span class="caret"></span></a>
+<ul class="submenu-inner ">
+	<li id="menu-item-5930" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5930"><a href="https://www.connectnyc.org/resources/">Resources</a></li>
+</ul>
+</li>
+<li id="menu-item-4375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4375"><a href="https://www.connectnyc.org/allevents/">Events</a></li>
+<li id="menu-item-4157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4157"><a href="https://www.connectnyc.org/blogs/">Blog</a></li>
+<li id="menu-item-6425" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6425"><a href="https://www.connectnyc.org/covid19/">COVID-19</a></li>
+</ul></div>         <div class="after-offcanvas">
+            <aside id="text-2" class="widget clearfix widget_text">			<div class="textwidget"><div class="list-socials">
+  <a href="#"><i class="gv-icon-1405"></i></a>
+  <a href="#"><i class="gv-icon-1411"></i></a>
+  <a href="#"><i class="gv-icon-1406"></i></a>
+   <a href="#"><i class="gv-icon-1407"></i></a>
+   <a href="#"><i class="gv-icon-1408"></i></a>
+</div></div>
+		</aside>         </div>    
+     </div>
+   </div>
+</div>      </div>
+
+      <div class="center text-center col-xs-6">
+        <div class="logo-menu">
+          <a href="https://www.connectnyc.org/">
+            <img src="https://www.connectnyc.org/wp-content/uploads/2015/12/rsz_connect_logo_small_194_152_2.jpg" alt="CONNECT" />
+          </a>
+        </div>
+      </div>
+
+        <div class="right col-xs-3">
+                    <div class="main-search gva-search">
+            <a class="control-search"><i class="fa fa-search"></i></a>
+            <div class="gva-search-content search-content">
+              <div class="search-content-inner">
+                <div class="content-inner"><form method="get" class="searchform gva-main-search" action="https://www.connectnyc.org/">
+	<div class="gva-search">
+		<input name="s" maxlength="40" class="form-control input-large input-search" type="text" size="20" placeholder="Search...">
+		<span class="input-group-addon input-large btn-search">
+			<input type="submit" class="fa" value="&#xf002;" />
+		</span>
+	</div>
+</form>
+
+
+</div>  
+              </div>  
+            </div>
+          </div>
+        </div> 
+       
+    </div>  
+  </div>  
+</div>
+      <div class="header-top hidden-xs hidden-sm">
+        <div class="container"> 
+          <div class="main-header-inner clearfix">
+            <div class="logo">
+              <a class="logo-theme" href="https://www.connectnyc.org/">
+                <img src="https://www.connectnyc.org/wp-content/uploads/2015/12/rsz_connect_logo_small_194_152_2.jpg" alt="CONNECT" />
+              </a>
+            </div>
+            <div class="quick-menu">
+              <div id="gva-my-account-menu" class="navbar-collapse"><ul id="menu-header-menu" class="nav navbar-nav gva-my-account-menu"><li id="menu-item-4461" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4461"><a href="https://www.connectnyc.org/join-us/">Join our mailing list</a></li>
+<li id="menu-item-4154" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4154"><a href="https://www.connectnyc.org/contact-page/">Contact us</a></li>
+<li id="menu-item-4462" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4462"><a href="http://ncadv.org/redirect">EXIT THIS SITE</a></li>
+</ul></div>            </div>
+            <div class="header-right">
+                            <div class="main-search gva-search quick-search ">
+                <div class="search-content-inner">
+                  <div class="content-inner"><form method="get" class="searchform gva-main-search" action="https://www.connectnyc.org/">
+	<div class="gva-search">
+		<input name="s" maxlength="40" class="form-control input-large input-search" type="text" size="20" placeholder="Search...">
+		<span class="input-group-addon input-large btn-search">
+			<input type="submit" class="fa" value="&#xf002;" />
+		</span>
+	</div>
+</form>
+
+
+</div>  
+                </div>
+              </div>
+              
+              <div class="mini-cart-header cart-v2">
+                  
+              </div> 
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="hidden-xs hidden-sm gv-sticky-menu">
+        <div class="header-bottom">
+            <div class="hidden-xs hidden-sm">
+    <div class="canvas-menu gva-offcanvas">
+      <a class="dropdown-toggle" data-canvas=".default" href="#"><i class="gv-icon-103"></i></a>
+    </div>
+    <div class="gva-offcanvas-content default">
+      <div class="close-canvas"><a><i class="gv-icon-8"></i></a></div>
+      <div class="wp-sidebar sidebar">
+        <aside id="text-3" class="widget clearfix widget_text"><h3 class="widget-title"><span>About</span></h3>			<div class="textwidget"><div class="text-left">CONNECT develops unique programs and innovative ways to prevent domestic violence and promote gender justice. Our goal is to transform the culture of violence and to build the capacity of communities to respond to the complex needs of survivors and their families.</div></div>
+		</aside><aside id="text-4" class="widget clearfix widget_text">			<div class="textwidget"><div class="info-shop">
+     <div class="item"><a href="#"><i class="gv-icon-250"></i><span>212.683.0015</span></a></div>
+
+     <div class="item"><a href="#"><i class="gv-icon-220"></i><span>contactus@connectnyc.org</span></a></div>
+
+</div>
+</div>
+		</aside><aside id="text-5" class="widget clearfix widget_text">			<div class="textwidget"><div class="list-socials">
+  <a href="#"><i class="gv-icon-1405"></i></a>
+  <a href="#"><i class="gv-icon-1411"></i></a>
+  <a href="#"><i class="gv-icon-1406"></i></a>
+   <a href="#"><i class="gv-icon-1407"></i></a>
+   <a href="#"><i class="gv-icon-1408"></i></a>
+</div></div>
+		</aside>  
+      </div>
+    </div>
+  </div>
+            <div class="container">
+            <div class="header-bottom-inner">
+              <div class="main-menu-inner">
+                <div class="content-innter clearfix">
+                  <div id="gva-mainmenu" class="main-menu">
+                    <div id="gva-main-menu" class="navbar-collapse"><ul id="menu-menu-2" class="nav navbar-nav gva-nav-menu gva-main-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4032 current_page_item menu-item-4475"><a href="https://www.connectnyc.org/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4319"><a href="https://www.connectnyc.org/about-page/">About<span class="caret"></span></a>
+<ul class="submenu-inner ">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4334"><a href="https://www.connectnyc.org/meet-our-team/">Staff &#038; Board</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5857"><a href="https://www.connectnyc.org/5850-2/">Work with us</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4376"><a href="https://www.connectnyc.org/our-work/">Our Work<span class="caret"></span></a>
+<ul class="submenu-inner ">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5213"><a href="https://www.connectnyc.org/cti/">CONNECT Training Institute</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5236"><a href="https://www.connectnyc.org/cep/">Community Empowerment Program (CEP)<span class="caret"></span></a>
+	<ul class="submenu-inner ">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5253"><a href="https://www.connectnyc.org/connect-women/">CONNECT Women</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5250"><a href="https://www.connectnyc.org/connect-men/">CONNECT Men</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5249"><a href="https://www.connectnyc.org/connect-faith/">CONNECT Faith</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5248"><a href="https://www.connectnyc.org/connect-youth/">CONNECT Youth</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4168"><a href="https://www.connectnyc.org/dialogues-circles/">Dialogues &#038; Circles</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5942"><a href="https://www.connectnyc.org/ipv/">Intimate Partner Violence<span class="caret"></span></a>
+<ul class="submenu-inner ">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5930"><a href="https://www.connectnyc.org/resources/">Resources</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4375"><a href="https://www.connectnyc.org/allevents/">Events</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4157"><a href="https://www.connectnyc.org/blogs/">Blog</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6425"><a href="https://www.connectnyc.org/covid19/">COVID-19</a></li>
+</ul></div>                  </div>
+                </div> 
+              </div> 
+                              <div class="quick-button">
+                  <a href="https://www.connectnyc.org/donate/">DONATE</a>
+                </div> 
+                          </div>
+          </div>  
+        </div>
+      </div> 
+
+    </header>
+        
+    <div id="page-content"> <!--page content-->
+      
+
+  <div id="wp-main-content" class="clearfix main-page title-layout-standard">
+  <div class="disable-breadcrumb clearfix"></div>    <div class="container-layout-content container-full">
+    <div class="content-page-wrap">
+             <div class="main-page-content base-layout row has-no-sidebar">
+          
+            <div class="content-page col-lg-12 col-md-12 col-sm-12 col-xs-12">
+              <div class="content-page-inner">   
+                      <div class="clearfix post-4032 page type-page status-publish hentry" id="4032">
+
+         
+        
+        <div class="vc_wpb_row_inner  "><div data-vc-full-width="true" data-vc-full-width-init="false" data-vc-stretch-content="true" class="vc_row wpb_row vc_row-fluid remove_margin remove_padding remove_padding_col row-fullwidth vc_row-no-padding"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_message_box vc_message_box-standard vc_message_box-square vc_color-orange vc_custom_1590525609926" ><div class="vc_message_box-icon"><i class="fa fa-info-circle"></i></div><p>#StillCONNECTedNYC: In response to COVID-19, CONNECT has adopted virtual programming to support one another and stay safe, peaceful and sane. <a href="https://www.connectnyc.org/covid19/">Learn more.</a></p>
+</div></div></div></div></div><div class="vc_row-full-width vc_clearfix"></div></div><div class="vc_wpb_row_inner  "><div data-vc-parallax="1.5" data-vc-parallax-image="https://i1.wp.com/www.connectnyc.org/wp-content/uploads/2019/12/brown-concrete-structure-under-sunny-sky-404173-scaled.jpg?fit=2560%2C1697&amp;ssl=1" class="vc_row wpb_row vc_row-fluid padding-large row-container vc_row-o-content-middle vc_row-flex vc_general vc_parallax vc_parallax-content-moving"><div class="container"><div class="row "><div data-vc-parallax="1.5" class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill vc_general vc_parallax vc_parallax-content-moving"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="widget gsc-call-to-action  button-center text-light" style="max-width: 690px;">
+   <div class="content-inner clearfix" >
+      <div class="content">
+         <h2 class="title"><span>CONNECT works with NYC's communities to prevent interpersonal violence and promote gender justice.</span></h2>
+               </div>
+                     <div class="button-action">
+            <a href="https://www.connectnyc.org/about-page/" class="btn-theme" >ABOUT US</a>   
+         </div>
+         </div>
+</div>
+
+</div></div></div></div></div></div></div><div class="vc_wpb_row_inner  "><div class="vc_row wpb_row vc_row-fluid padding-small row-container vc_row-o-content-middle vc_row-flex"><div class="container"><div class="row "><div data-vc-parallax="1.5" class="wpb_column vc_column_container vc_col-sm-12 vc_col-has-fill vc_general vc_parallax vc_parallax-content-moving"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="widget gsc-call-to-action  button-center text-dark" style="max-width: 690px;">
+   <div class="content-inner clearfix" >
+      <div class="content">
+         <h2 class="title"><span>Our Mission</span></h2>
+         <div class="desc">CONNECT seeks to create safe families and peaceful communities by transforming the beliefs, behaviors, and institutions that perpetuate violence.</div>      </div>
+                     <div class="button-action">
+            <a href="https://www.connectnyc.org/our-work/" class="btn-theme" >LEARN MORE</a>   
+         </div>
+         </div>
+</div>
+
+<div class="vc_empty_space"   style="height: 32px"><span class="vc_empty_space_inner"></span></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper">
+   <div class="widget milestone-block margin-1 position-icon-top text-dark">
+               <div class="milestone-icon"><span style="color: #942739;" class="gv-icon-1083"></span></div>
+         
+      <div class="milestone-right">
+         <div class="milestone-number-inner" style="color: #942739;"><span class="milestone-number">25</span><span class="symbol"></span></div>
+         <div class="milestone-text">Trainings offered each year</div>
+               </div>
+   </div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper">
+   <div class="widget milestone-block margin-1 position-icon-top text-dark">
+               <div class="milestone-icon"><span style="color: #942739;" class="gv-icon-1091"></span></div>
+         
+      <div class="milestone-right">
+         <div class="milestone-number-inner" style="color: #942739;"><span class="milestone-number">275</span><span class="symbol"></span></div>
+         <div class="milestone-text">Workshops offered annually</div>
+               </div>
+   </div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper">
+   <div class="widget milestone-block margin-1 position-icon-top text-dark">
+               <div class="milestone-icon"><span style="color: #942739;" class="gv-icon-263"></span></div>
+         
+      <div class="milestone-right">
+         <div class="milestone-number-inner" style="color: #942739;"><span class="milestone-number">10</span><span class="symbol"></span></div>
+         <div class="milestone-text">Father&#039;s Day Pledges to date</div>
+               </div>
+   </div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-3"><div class="vc_column-inner"><div class="wpb_wrapper">
+   <div class="widget milestone-block margin-1 position-icon-top text-dark">
+               <div class="milestone-icon"><span style="color: #942739;" class="gv-icon-419"></span></div>
+         
+      <div class="milestone-right">
+         <div class="milestone-number-inner" style="color: #942739;"><span class="milestone-number">75</span><span class="symbol"></span></div>
+         <div class="milestone-text">Community events annually</div>
+               </div>
+   </div>
+</div></div></div></div></div></div></div></div></div></div></div><div class="vc_wpb_row_inner  vc_custom_1580178033421"><div data-vc-parallax="2" class="vc_row wpb_row vc_row-fluid row-container vc_general vc_parallax vc_parallax-content-moving"><div class="container"><div class="row "><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="widget gsc-call-to-action  button-center text-dark" style="max-width: 690px;">
+   <div class="content-inner clearfix" >
+      <div class="content">
+         <h2 class="title"><span>Our Programs</span></h2>
+         <div class="desc">Our work transforms the culture of violence and to build the capacity of communities to respond to the complex needs of survivors and their families.</div>      </div>
+               </div>
+</div>
+
+<div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+
+   <div class="gsc-image-content  style-2">
+      <a  href="https://www.connectnyc.org/cti/">                     <img src="https://i1.wp.com/www.connectnyc.org/wp-content/uploads/2019/12/harlem.jpg?fit=2540%2C1232&#038;ssl=1" alt="Transformative Education" />
+               </a>  
+      <div class="box-content">
+                     <h4 class="title">
+               <a  href="https://www.connectnyc.org/cti/">                  Transformative Education               </a>  
+            </h4>   
+          
+         <div class="desc">The CONNECT TRAINING INSTITUTE (CTI) transforms the understanding of community leaders, social service professionals, advocates, teachers and activists about the causes, consequences and complex dynamics of intimate and gender violence.</div>
+                     <div class="read-more">
+               <a class="btn-inline"  href="https://www.connectnyc.org/cti/">Read more</a>
+            </div>
+               </div>  
+   </div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+
+   <div class="gsc-image-content  style-2">
+      <a  href="https://www.connectnyc.org/cep/">                     <img src="https://i0.wp.com/www.connectnyc.org/wp-content/uploads/2019/12/connect-CEP.jpg?fit=1384%2C733&#038;ssl=1" alt="Community Building" />
+               </a>  
+      <div class="box-content">
+                     <h4 class="title">
+               <a  href="https://www.connectnyc.org/cep/">                  Community Building               </a>  
+            </h4>   
+          
+         <div class="desc">As part of a comprehensive approach to eliminating family violence, the Community Empowerment Program (CEP) helps local organizations across New York City respond to the needs of victims and survivors in their own communities.</div>
+                     <div class="read-more">
+               <a class="btn-inline"  href="https://www.connectnyc.org/cep/">Read more</a>
+            </div>
+               </div>  
+   </div>
+</div></div></div></div></div></div></div></div></div></div></div><div class="vc_wpb_row_inner  "><div class="vc_row wpb_row vc_row-fluid row-container"><div class="container"><div class="row "><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="widget gsc-call-to-action  button-center text-dark" style="max-width: 690px;">
+   <div class="content-inner clearfix" >
+      <div class="content">
+         <h2 class="title"><span>Events &amp; Training</span></h2>
+         <div class="desc">Our circles, roundtables, workshops and seminars are safe spaces where people can name and challenge the dynamics of power and control and explore the way these dynamics create and sustain violence in our particular racial, ethnic and sociocultural locations.</div>      </div>
+                     <div class="button-action">
+            <a href="https://www.connectnyc.org/allevents/" class="btn-theme" >Upcoming events</a>   
+         </div>
+         </div>
+</div>
+
+</div></div></div></div></div></div></div><div class="vc_wpb_row_inner  vc_custom_1581359075658"><div data-vc-parallax="1.6" data-vc-parallax-image="https://i1.wp.com/www.connectnyc.org/wp-content/uploads/2020/02/89286.jpg?fit=2560%2C1600&amp;ssl=1" class="vc_row wpb_row vc_row-fluid padding-bottom-large row-container vc_general vc_parallax vc_parallax-content-moving"><div class="container"><div class="row "><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="widget gsc-heading  align-center style-default text-light">
+   <div class="heading-top">
+            <h2 class="title"><span>What you can do</span></h2>   </div>   
+   </div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper">
+      <div class="widget gsc-icon-box text-light top-center v2 " >
+              <div class="highlight-icon">
+                                <span class="icon-image icon-container"><img src="https://i2.wp.com/www.connectnyc.org/wp-content/uploads/2018/08/group.png?fit=64%2C64&#038;ssl=1" alt="Pledge Against Violence"/> </span>
+                  </div>
+      
+      <div class="highlight_content">
+        <div class="title">
+          <a href="https://www.connectnyc.org/take-the-pledge/">             Pledge Against Violence           </a>         </div>
+                  <div class="desc">Join hundreds of fathers, sons, mothers, daughters, and everyone in between as they renew their pledges against violence.</div>
+           
+      </div>
+
+          </div> 
+     
+
+  </div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper">
+      <div class="widget gsc-icon-box text-light top-center v2 " >
+              <div class="highlight-icon">
+                                <span class="icon-image icon-container"><img src="https://i1.wp.com/www.connectnyc.org/wp-content/uploads/2018/08/monthly-calendar.png?fit=64%2C64&#038;ssl=1" alt="Join Our Events"/> </span>
+                  </div>
+      
+      <div class="highlight_content">
+        <div class="title">
+          <a href="https://www.connectnyc.org/dialogues-circles/">             Join Our Events           </a>         </div>
+                  <div class="desc">Throughout the year, we host numerous workshops, circles, dialogues, screenings and more. Learn more about our events.</div>
+           
+      </div>
+
+          </div> 
+     
+
+  </div></div></div><div class="wpb_column vc_column_container vc_col-sm-4"><div class="vc_column-inner"><div class="wpb_wrapper">
+      <div class="widget gsc-icon-box text-light top-center v2 " >
+              <div class="highlight-icon">
+                      <span class="icon-container fa-4x  " style="color: #FCC91B;">
+              <span class="icon gv-icon-1075"></span> 
+            </span>
+                            </div>
+      
+      <div class="highlight_content">
+        <div class="title">
+          <a href="https://www.connectnyc.org/trainings/">             Train with CONNECT           </a>         </div>
+                  <div class="desc">We train community leaders and practitioners on the dynamics and consequences of intimate and gender violence.</div>
+           
+      </div>
+
+          </div> 
+     
+
+  </div></div></div></div></div></div></div></div></div></div></div><div class="vc_wpb_row_inner  vc_custom_1581359865175"><div data-vc-parallax="1.6" class="vc_row wpb_row vc_row-fluid padding-bottom-large row-container vc_general vc_parallax vc_parallax-content-moving"><div class="container"><div class="row "><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+<div class="widget gsc-call-to-action  button-center text-dark" style="max-width: 690px;">
+   <div class="content-inner clearfix" >
+      <div class="content">
+         <h2 class="title"><span>Support CONNECT</span></h2>
+         <div class="desc">For over fifteen years, CONNECT’s mission has been to uproot and end violence. But this is not just an ideal. It’s our every day work. If you share our vision of healthy relationships, safe families and peaceful communities, please help us sustain our critical work, year-round.</div>      </div>
+                     <div class="button-action">
+            <a href="https://www.connectnyc.org/donate/" class="btn-theme" >Give today!</a>   
+         </div>
+         </div>
+</div>
+
+</div></div></div></div></div></div></div>
+
+        <div class="link-pages"></div>
+        <div class="container">
+                    </div>
+        
+    </div>
+
+              </div>    
+            </div>      
+
+            <!-- Left sidebar -->
+            
+            <!-- Right Sidebar -->
+            
+        </div> 
+              </div>
+    </div>
+     
+  </div>    
+     
+	</div><!--end page content-->
+	
+</div><!-- End page -->
+
+	<footer id="wp-footer" class="clearfix">
+				<div class="footer-main"><p><div class="vc_wpb_row_inner  vc_custom_1534777196579"><div class="vc_row wpb_row vc_row-fluid remove_padding_bottom row-container"><div class="container"><div class="row "><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-3"><div class="vc_column-inner"><div class="wpb_wrapper"><div  class="vc_wp_text wpb_content_element"><div class="widget widget_text"><h2 class="widgettitle">Main office</h2>			<div class="textwidget"></p>
+<div class="contact-info">
+<div><span class="description"></span></div>
+<ul class="contact-info">
+<li><i class="fa fa-home"></i> 127 West 127th Street, New York, NY 10027</li>
+<li><i class="fa fa-mobile-phone"></i> 212.683.0015</li>
+<li><a href="mailto:connect@connectnyc.org"><i class="fa fa-envelope-o"></i> connect@connectnyc.org</a></li>
+</ul>
+</div>
+<p>
+</div>
+		</div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-2 vc_col-md-2"><div class="vc_column-inner"><div class="wpb_wrapper"><div  class="vc_wp_custommenu wpb_content_element"></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-3 vc_col-md-3"><div class="vc_column-inner"><div class="wpb_wrapper"><div  class="vc_wp_text wpb_content_element"><div class="widget widget_text"><h2 class="widgettitle">Newsletter</h2>			<div class="textwidget"><p></p>
+</div>
+		</div></div><div class="vc_btn3-container vc_btn3-inline" ><a class="vc_general vc_btn3 vc_btn3-size-sm vc_btn3-shape-rounded vc_btn3-style-flat vc_btn3-color-warning" href="https://www.connectnyc.org/join-us/" title="">Sign up</a></div><div  class="vc_wp_text wpb_content_element"><div class="widget widget_text"><h2 class="widgettitle">Press</h2>			<div class="textwidget"><p><a href="https://www.connectnyc.org/press/">CONNECT in the news.</a></p>
+</div>
+		</div></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-lg-4 vc_col-md-4"><div class="vc_column-inner"><div class="wpb_wrapper">
+<section class="widget gva-blogs-list section-blog ">
+            <h3 class="widget-title visual-title">
+           <span>From our blog</span>
+        </h3>
+    
+    <div class="widget-content">
+                  <div class="posts-list post-small post-items">
+                             
+                <div class="row">
+                  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 sticky-post">
+                    <article class="post-7159 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-whats-new">
+                      <div class="post-thumbnail">
+                        <img width="180" height="180" src="https://i2.wp.com/www.connectnyc.org/wp-content/uploads/2021/02/oladimeji-odunsi-e-TuK4z2LhY-unsplash.jpg?resize=180%2C180&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Present-Day Black Movements and Leaders" loading="lazy" srcset="https://i2.wp.com/www.connectnyc.org/wp-content/uploads/2021/02/oladimeji-odunsi-e-TuK4z2LhY-unsplash.jpg?zoom=2&amp;resize=180%2C180&amp;ssl=1 360w, https://i2.wp.com/www.connectnyc.org/wp-content/uploads/2021/02/oladimeji-odunsi-e-TuK4z2LhY-unsplash.jpg?zoom=3&amp;resize=180%2C180&amp;ssl=1 540w" sizes="(max-width: 180px) 100vw, 180px" />                      </div>  
+                      <div class="post-content">
+                        <div class="entry-header">
+                          <h3 class="entry-title"><a href="https://www.connectnyc.org/present-day-black-movements-and-leaders/" rel="bookmark">Present-Day Black Movements and Leaders</a></h3>                          <div class="entry-meta">
+                                                          <span class="cat-links"><a href="https://www.connectnyc.org/category/whats-new/blog/" rel="category tag">Blog</a>, <a href="https://www.connectnyc.org/category/whats-new/" rel="category tag">What's New</a></span>
+                              <span class="line"></span>
+                                                        <span class="entry-date"><a href="https://www.connectnyc.org/present-day-black-movements-and-leaders/" rel="bookmark"><time class="entry-date" datetime="2021-02-25T10:20:27-05:00">February 25, 2021</time></a></span>                          </div>
+                        </div>
+                      </div>  
+                    </article>
+
+                  </div>
+                </div>
+
+                             
+                <div class="row">
+                  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 sticky-post">
+                    <article class="post-7106 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-whats-new">
+                      <div class="post-thumbnail">
+                        <img width="180" height="180" src="https://i1.wp.com/www.connectnyc.org/wp-content/uploads/2021/01/peace-week-2021.jpg?resize=180%2C180&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Working Together to Create Peace" loading="lazy" />                      </div>  
+                      <div class="post-content">
+                        <div class="entry-header">
+                          <h3 class="entry-title"><a href="https://www.connectnyc.org/working-together-to-create-peace/" rel="bookmark">Working Together to Create Peace</a></h3>                          <div class="entry-meta">
+                                                          <span class="cat-links"><a href="https://www.connectnyc.org/category/whats-new/blog/" rel="category tag">Blog</a>, <a href="https://www.connectnyc.org/category/whats-new/" rel="category tag">What's New</a></span>
+                              <span class="line"></span>
+                                                        <span class="entry-date"><a href="https://www.connectnyc.org/working-together-to-create-peace/" rel="bookmark"><time class="entry-date" datetime="2021-01-22T15:12:45-05:00">January 22, 2021</time></a></span>                          </div>
+                        </div>
+                      </div>  
+                    </article>
+
+                  </div>
+                </div>
+
+                             
+                <div class="row">
+                  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 sticky-post">
+                    <article class="post-6929 post type-post status-publish format-standard has-post-thumbnail hentry category-blog category-whats-new tag-139 tag-142 tag-hope tag-new-year">
+                      <div class="post-thumbnail">
+                        <img width="180" height="180" src="https://i2.wp.com/www.connectnyc.org/wp-content/uploads/2020/12/2020.jpeg?resize=180%2C180&amp;ssl=1" class="attachment-thumbnail size-thumbnail wp-post-image" alt="Celebrating Hope Despite 2020’s Hardships" loading="lazy" srcset="https://i2.wp.com/www.connectnyc.org/wp-content/uploads/2020/12/2020.jpeg?zoom=2&amp;resize=180%2C180&amp;ssl=1 360w, https://i2.wp.com/www.connectnyc.org/wp-content/uploads/2020/12/2020.jpeg?zoom=3&amp;resize=180%2C180&amp;ssl=1 540w" sizes="(max-width: 180px) 100vw, 180px" />                      </div>  
+                      <div class="post-content">
+                        <div class="entry-header">
+                          <h3 class="entry-title"><a href="https://www.connectnyc.org/celebrating-hope-despite-2020s-hardships/" rel="bookmark">Celebrating Hope Despite 2020’s Hardships</a></h3>                          <div class="entry-meta">
+                                                          <span class="cat-links"><a href="https://www.connectnyc.org/category/whats-new/blog/" rel="category tag">Blog</a>, <a href="https://www.connectnyc.org/category/whats-new/" rel="category tag">What's New</a></span>
+                              <span class="line"></span>
+                                                        <span class="entry-date"><a href="https://www.connectnyc.org/celebrating-hope-despite-2020s-hardships/" rel="bookmark"><time class="entry-date" datetime="2020-12-28T08:30:00-05:00">December 28, 2020</time></a></span>                          </div>
+                        </div>
+                      </div>  
+                    </article>
+
+                  </div>
+                </div>
+
+                       </div>
+           
+    
+      
+    </div>
+</section>
+</div></div></div></div></div></div></div><div class="vc_wpb_row_inner  "><div class="vc_row wpb_row vc_row-fluid row-border-top row-container"><div class="container"><div class="row "><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div  class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1577125229569">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="113" height="80" src="https://i1.wp.com/www.connectnyc.org/wp-content/uploads/2015/12/connectwhitelogo-1.png?fit=113%2C80&amp;ssl=1" class="vc_single_image-img attachment-medium" alt="" loading="lazy" /></div>
+		</figure>
+	</div>
+
+	<div class="wpb_text_column wpb_content_element  text-center width-600" >
+		<div class="wpb_wrapper">
+			<p>Transforming the culture of violence and building the capacity of communities to respond to the complex needs of survivors.</p>
+
+		</div>
+	</div>
+
+<div class="widget gva-social-links margin-bottom-0 style-v2">
+        <div class="widget-content">
+        
+      <ul class="socials">
+
+                  <li><a href="http://www.facebook.com/connectnyc"><i class="gv-icon-1405"></i></a></li>
+         
+
+                  <li><a href="http://www.instagram.com/connect_nyc/"><i class="gv-icon-1411"></i></a></li>
+          
+
+                  <li><a href="http://www.twitter.com/CONNECT_NYC"><i class="gv-icon-1406"></i></a></li>
+          
+
+          
+
+                  <li><a href="http://www.linkedin.com/company/connectnyc/"><i class="gv-icon-1408"></i></a></li>
+         
+
+         
+        
+        
+        
+        
+                   <li><a href="http://www.youtube.com/user/connectnyc"><i class="gv-icon-1407"></i></a></li>
+        
+      </ul>
+    </div>
+</div>
+</div></div></div></div></div></div></div></p>
+</div>		
+		<div class="copyright">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-12 col-xs-12">
+						Copyright © 2019 - CONNECT, INC. - All rights reserved. 					</div>
+				</div>	
+			</div>
+		</div>
+		<div class="return-top default"><i class="gv-icon-194"></i></div>
+
+	</footer>
+	
+	<div id="gva-overlay"></div>
+	<div id="gva-quickview" class="clearfix"></div>
+	<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="blur-svg">
+	   <defs>
+	      <filter id="blur-filter">
+	         <feGaussianBlur stdDeviation="3"></feGaussianBlur>
+	      </filter>
+	    </defs>
+	</svg>
+<link rel='stylesheet' id='font-awesome-css'  href='https://www.connectnyc.org/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css?ver=6.0.5' type='text/css' media='all' />
+<script type='text/javascript' src='https://c0.wp.com/p/jetpack/9.5/_inc/build/photon/photon.min.js' id='jetpack-photon-js'></script>
+<script type='text/javascript' src='https://www.connectnyc.org/wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-recaptcha-v2.min.js?ver=1.10.1' id='recaptcha-v2-js'></script>
+<script async="async" defer type='text/javascript' src='//www.google.com/recaptcha/api.js?onload=renderReCaptcha&#038;render=explicit&#038;ver=1.10.1' id='recaptcha-lib-v2-js'></script>
+<script type='text/javascript' src='https://www.connectnyc.org/wp-content/plugins/constant-contact-forms/assets/js/ctct-plugin-frontend.min.js?ver=1.10.1' id='ctct_frontend_forms-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7.1/wp-includes/js/dist/vendor/wp-polyfill.min.js' id='wp-polyfill-js'></script>
+<script type='text/javascript' id='wp-polyfill-js-after'>
+( 'fetch' in window ) || document.write( '<script src="https://www.connectnyc.org/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://www.connectnyc.org/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://www.connectnyc.org/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://www.connectnyc.org/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://www.connectnyc.org/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://www.connectnyc.org/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );( 'objectFit' in document.documentElement.style ) || document.write( '<script src="https://www.connectnyc.org/wp-includes/js/dist/vendor/wp-polyfill-object-fit.min.js?ver=2.3.4"></scr' + 'ipt>' );
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7.1/wp-includes/js/dist/hooks.min.js' id='wp-hooks-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7.1/wp-includes/js/dist/i18n.min.js' id='wp-i18n-js'></script>
+<script type='text/javascript' id='wp-i18n-js-after'>
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7.1/wp-includes/js/dist/vendor/lodash.min.js' id='lodash-js'></script>
+<script type='text/javascript' id='lodash-js-after'>
+window.lodash = _.noConflict();
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7.1/wp-includes/js/dist/url.min.js' id='wp-url-js'></script>
+<script type='text/javascript' id='wp-api-fetch-js-translations'>
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "default", { "locale_data": { "messages": { "": {} } } } );
+</script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7.1/wp-includes/js/dist/api-fetch.min.js' id='wp-api-fetch-js'></script>
+<script type='text/javascript' id='wp-api-fetch-js-after'>
+wp.apiFetch.use( wp.apiFetch.createRootURLMiddleware( "https://www.connectnyc.org/wp-json/" ) );
+wp.apiFetch.nonceMiddleware = wp.apiFetch.createNonceMiddleware( "b4cebd91bc" );
+wp.apiFetch.use( wp.apiFetch.nonceMiddleware );
+wp.apiFetch.use( wp.apiFetch.mediaUploadMiddleware );
+wp.apiFetch.nonceEndpoint = "https://www.connectnyc.org/wp-admin/admin-ajax.php?action=rest-nonce";
+</script>
+<script type='text/javascript' id='contact-form-7-js-extra'>
+/* <![CDATA[ */
+var wpcf7 = {"cached":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.connectnyc.org/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.4' id='contact-form-7-js'></script>
+<script type='text/javascript' src='https://www.connectnyc.org/wp-content/plugins/gaviasframework/js/gavias.themer.js' id='gavias.themer-js'></script>
+<script type='text/javascript' src='https://www.connectnyc.org/wp-content/plugins/quick-event-manager/legacy/quick-event-manager.js?ver=5.7.1' id='event_script-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7.1/wp-includes/js/jquery/ui/core.min.js' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7.1/wp-includes/js/jquery/ui/datepicker.min.js' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":0,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=6LcUKw8UAAAAAMpB7WeqlnCetqcdlRC67bqY1b4E&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script type='text/javascript' id='wpcf7-recaptcha-js-extra'>
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LcUKw8UAAAAAMpB7WeqlnCetqcdlRC67bqY1b4E","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.connectnyc.org/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.4' id='wpcf7-recaptcha-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7.1/wp-includes/js/imagesloaded.min.js' id='imagesloaded-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7.1/wp-includes/js/masonry.min.js' id='masonry-js'></script>
+<script type='text/javascript' src='https://www.connectnyc.org/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=6.0.5' id='isotope-js'></script>
+<script type='text/javascript' src='https://c0.wp.com/c/5.7.1/wp-includes/js/wp-embed.min.js' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://www.connectnyc.org/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.0.5' id='wpb_composer_front_js-js'></script>
+<script type='text/javascript' src='https://www.connectnyc.org/wp-content/plugins/js_composer/assets/lib/bower/skrollr/dist/skrollr.min.js?ver=6.0.5' id='vc_jquery_skrollr_js-js'></script>
+<script src='https://stats.wp.com/e-202118.js' defer></script>
+<script>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:9.5',blog:'155064092',post:'4032',tz:'-4',srv:'www.connectnyc.org'} ]);
+	_stq.push([ 'clickTrackerInit', '155064092', '4032' ]);
+</script>
+</body>
+</html>
+<!-- Page supported by LiteSpeed Cache 3.6.4 on 2021-05-03 12:36:32 -->
